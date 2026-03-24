@@ -1,0 +1,12 @@
+.venv/
+data/
+models/checkpoints/
+models/mediapipe/
+features/
+logs/features_progress.json
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+outputs/
