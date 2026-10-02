@@ -1,0 +1,27 @@
+{
+  "label": "where are you from",
+  "raw_gloss": "YOU FROM PLACE G-WH",
+  "normalized_gloss": "YOU FROM PLACE G-WH",
+  "tokens_raw": [
+    "YOU",
+    "FROM",
+    "PLACE",
+    "G-WH"
+  ],
+  "tokens_normalized": [
+    "YOU",
+    "FROM",
+    "PLACE",
+    "G-WH"
+  ],
+  "is_question": "yes",
+  "wh_type": "where",
+  "polarity": "positive",
+  "tense": "present",
+  "aspect": "none",
+  "notes": "starter mapping",
+  "applied_rules": [
+    "clause_final_particle_ordering",
+    "wh_final_enforcement"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "label": "nice to meet you",
+  "raw_gloss": "",
+  "normalized_gloss": "",
+  "tokens_raw": [],
+  "tokens_normalized": [],
+  "is_question": "unknown",
+  "wh_type": "unknown",
+  "polarity": "unknown",
+  "tense": "unknown",
+  "aspect": "unknown",
+  "notes": "label not found in gloss_map.csv",
+  "applied_rules": []
+}

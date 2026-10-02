@@ -1,0 +1,20 @@
+{
+  "label": "help me",
+  "raw_gloss": "ME HELP",
+  "normalized_gloss": "ME HELP",
+  "tokens_raw": [
+    "ME",
+    "HELP"
+  ],
+  "tokens_normalized": [
+    "ME",
+    "HELP"
+  ],
+  "is_question": "no",
+  "wh_type": "none",
+  "polarity": "positive",
+  "tense": "present",
+  "aspect": "none",
+  "notes": "starter mapping",
+  "applied_rules": []
+}

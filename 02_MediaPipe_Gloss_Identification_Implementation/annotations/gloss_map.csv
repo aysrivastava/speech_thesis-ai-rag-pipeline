@@ -1,0 +1,7 @@
+label,gloss,is_question,wh_type,polarity,tense,aspect,notes
+are you free today,YOU TODAY FREE G-WH,yes,yesno,positive,present,none,starter mapping
+help me,ME HELP,no,none,positive,present,none,starter mapping
+where are you from,YOU FROM PLACE G-WH,yes,where,positive,present,none,starter mapping
+who are you,YOU WHO G-WH,yes,who,positive,present,none,starter mapping
+i need water,ME WATER NEED,no,none,positive,present,none,starter mapping
+how are things,"YOU HOW ARE THINGS, G-WH",yes,what,positive,present,none,starter mapping

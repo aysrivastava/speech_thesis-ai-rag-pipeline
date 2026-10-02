@@ -1,0 +1,29 @@
+{
+  "label": "how are things",
+  "raw_gloss": "YOU HOW ARE THINGS, G-WH",
+  "normalized_gloss": "YOU HOW ARE THINGS, G-WH",
+  "tokens_raw": [
+    "YOU",
+    "HOW",
+    "ARE",
+    "THINGS,",
+    "G-WH"
+  ],
+  "tokens_normalized": [
+    "YOU",
+    "HOW",
+    "ARE",
+    "THINGS,",
+    "G-WH"
+  ],
+  "is_question": "yes",
+  "wh_type": "what",
+  "polarity": "positive",
+  "tense": "present",
+  "aspect": "none",
+  "notes": "starter mapping",
+  "applied_rules": [
+    "clause_final_particle_ordering",
+    "wh_final_enforcement"
+  ]
+}

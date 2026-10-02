@@ -1,0 +1,31 @@
+{
+  "label": "i need water",
+  "raw_gloss": "ME WATER NEED",
+  "normalized_gloss": "ME WATER NEED",
+  "grammar_summary": {
+    "is_question": "no",
+    "wh_type": "none",
+    "polarity": "positive",
+    "tense": "present",
+    "aspect": "none",
+    "applied_rules": []
+  },
+  "english_translation": "I need water.",
+  "translation_method": "rule_based_baseline",
+  "llm_prompt_placeholder": {
+    "task": "Translate normalized ISL/IndSL gloss into fluent English.",
+    "label": "i need water",
+    "raw_gloss": "ME WATER NEED",
+    "normalized_gloss": "ME WATER NEED",
+    "grammar_features": {
+      "is_question": "no",
+      "wh_type": "none",
+      "polarity": "positive",
+      "tense": "present",
+      "aspect": "none",
+      "applied_rules": []
+    },
+    "baseline_translation": "I need water.",
+    "instruction": "Generate a natural English sentence that preserves the meaning of the normalized gloss and uses the grammar features as constraints."
+  }
+}

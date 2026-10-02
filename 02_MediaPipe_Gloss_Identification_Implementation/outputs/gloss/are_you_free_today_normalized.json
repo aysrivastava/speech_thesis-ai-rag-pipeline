@@ -1,0 +1,28 @@
+{
+  "label": "are you free today",
+  "raw_gloss": "YOU TODAY FREE G-WH",
+  "normalized_gloss": "TODAY YOU FREE G-WH",
+  "tokens_raw": [
+    "YOU",
+    "TODAY",
+    "FREE",
+    "G-WH"
+  ],
+  "tokens_normalized": [
+    "TODAY",
+    "YOU",
+    "FREE",
+    "G-WH"
+  ],
+  "is_question": "yes",
+  "wh_type": "yesno",
+  "polarity": "positive",
+  "tense": "present",
+  "aspect": "none",
+  "notes": "starter mapping",
+  "applied_rules": [
+    "temporal_to_clause_initial",
+    "clause_final_particle_ordering",
+    "wh_final_enforcement"
+  ]
+}

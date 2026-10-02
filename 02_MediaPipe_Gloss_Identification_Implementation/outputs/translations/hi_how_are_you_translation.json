@@ -1,0 +1,31 @@
+{
+  "label": "hi how are you",
+  "raw_gloss": "",
+  "normalized_gloss": "",
+  "grammar_summary": {
+    "is_question": "unknown",
+    "wh_type": "unknown",
+    "polarity": "unknown",
+    "tense": "unknown",
+    "aspect": "unknown",
+    "applied_rules": []
+  },
+  "english_translation": "Hi how are you.",
+  "translation_method": "rule_based_baseline",
+  "llm_prompt_placeholder": {
+    "task": "Translate normalized ISL/IndSL gloss into fluent English.",
+    "label": "hi how are you",
+    "raw_gloss": "",
+    "normalized_gloss": "",
+    "grammar_features": {
+      "is_question": "unknown",
+      "wh_type": "unknown",
+      "polarity": "unknown",
+      "tense": "unknown",
+      "aspect": "unknown",
+      "applied_rules": []
+    },
+    "baseline_translation": "Hi how are you.",
+    "instruction": "Generate a natural English sentence that preserves the meaning of the normalized gloss and uses the grammar features as constraints."
+  }
+}

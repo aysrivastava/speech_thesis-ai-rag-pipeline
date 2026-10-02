@@ -1,0 +1,25 @@
+{
+  "label": "who are you",
+  "raw_gloss": "YOU WHO G-WH",
+  "normalized_gloss": "YOU WHO G-WH",
+  "tokens_raw": [
+    "YOU",
+    "WHO",
+    "G-WH"
+  ],
+  "tokens_normalized": [
+    "YOU",
+    "WHO",
+    "G-WH"
+  ],
+  "is_question": "yes",
+  "wh_type": "who",
+  "polarity": "positive",
+  "tense": "present",
+  "aspect": "none",
+  "notes": "starter mapping",
+  "applied_rules": [
+    "clause_final_particle_ordering",
+    "wh_final_enforcement"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "label": "how are things",
+  "raw_gloss": "YOU HOW ARE THINGS, G-WH",
+  "normalized_gloss": "YOU HOW ARE THINGS, G-WH",
+  "grammar_summary": {
+    "is_question": "yes",
+    "wh_type": "what",
+    "polarity": "positive",
+    "tense": "present",
+    "aspect": "none",
+    "applied_rules": [
+      "clause_final_particle_ordering",
+      "wh_final_enforcement"
+    ]
+  },
+  "english_translation": "How are things?",
+  "translation_method": "rule_based_baseline",
+  "llm_prompt_placeholder": {
+    "task": "Translate normalized ISL/IndSL gloss into fluent English.",
+    "label": "how are things",
+    "raw_gloss": "YOU HOW ARE THINGS, G-WH",
+    "normalized_gloss": "YOU HOW ARE THINGS, G-WH",
+    "grammar_features": {
+      "is_question": "yes",
+      "wh_type": "what",
+      "polarity": "positive",
+      "tense": "present",
+      "aspect": "none",
+      "applied_rules": [
+        "clause_final_particle_ordering",
+        "wh_final_enforcement"
+      ]
+    },
+    "baseline_translation": "How are things?",
+    "instruction": "Generate a natural English sentence that preserves the meaning of the normalized gloss and uses the grammar features as constraints."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "label": "who are you",
+  "raw_gloss": "YOU WHO G-WH",
+  "normalized_gloss": "YOU WHO G-WH",
+  "grammar_summary": {
+    "is_question": "yes",
+    "wh_type": "who",
+    "polarity": "positive",
+    "tense": "present",
+    "aspect": "none",
+    "applied_rules": [
+      "clause_final_particle_ordering",
+      "wh_final_enforcement"
+    ]
+  },
+  "english_translation": "Who are you?",
+  "translation_method": "rule_based_baseline",
+  "llm_prompt_placeholder": {
+    "task": "Translate normalized ISL/IndSL gloss into fluent English.",
+    "label": "who are you",
+    "raw_gloss": "YOU WHO G-WH",
+    "normalized_gloss": "YOU WHO G-WH",
+    "grammar_features": {
+      "is_question": "yes",
+      "wh_type": "who",
+      "polarity": "positive",
+      "tense": "present",
+      "aspect": "none",
+      "applied_rules": [
+        "clause_final_particle_ordering",
+        "wh_final_enforcement"
+      ]
+    },
+    "baseline_translation": "Who are you?",
+    "instruction": "Generate a natural English sentence that preserves the meaning of the normalized gloss and uses the grammar features as constraints."
+  }
+}

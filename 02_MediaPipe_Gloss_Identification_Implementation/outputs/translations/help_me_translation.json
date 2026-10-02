@@ -1,0 +1,31 @@
+{
+  "label": "help me",
+  "raw_gloss": "ME HELP",
+  "normalized_gloss": "ME HELP",
+  "grammar_summary": {
+    "is_question": "no",
+    "wh_type": "none",
+    "polarity": "positive",
+    "tense": "present",
+    "aspect": "none",
+    "applied_rules": []
+  },
+  "english_translation": "Help me.",
+  "translation_method": "rule_based_baseline",
+  "llm_prompt_placeholder": {
+    "task": "Translate normalized ISL/IndSL gloss into fluent English.",
+    "label": "help me",
+    "raw_gloss": "ME HELP",
+    "normalized_gloss": "ME HELP",
+    "grammar_features": {
+      "is_question": "no",
+      "wh_type": "none",
+      "polarity": "positive",
+      "tense": "present",
+      "aspect": "none",
+      "applied_rules": []
+    },
+    "baseline_translation": "Help me.",
+    "instruction": "Generate a natural English sentence that preserves the meaning of the normalized gloss and uses the grammar features as constraints."
+  }
+}

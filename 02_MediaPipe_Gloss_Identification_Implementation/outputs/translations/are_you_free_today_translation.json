@@ -1,0 +1,39 @@
+{
+  "label": "are you free today",
+  "raw_gloss": "YOU TODAY FREE G-WH",
+  "normalized_gloss": "TODAY YOU FREE G-WH",
+  "grammar_summary": {
+    "is_question": "yes",
+    "wh_type": "yesno",
+    "polarity": "positive",
+    "tense": "present",
+    "aspect": "none",
+    "applied_rules": [
+      "temporal_to_clause_initial",
+      "clause_final_particle_ordering",
+      "wh_final_enforcement"
+    ]
+  },
+  "english_translation": "Are you free today?",
+  "translation_method": "rule_based_baseline",
+  "llm_prompt_placeholder": {
+    "task": "Translate normalized ISL/IndSL gloss into fluent English.",
+    "label": "are you free today",
+    "raw_gloss": "YOU TODAY FREE G-WH",
+    "normalized_gloss": "TODAY YOU FREE G-WH",
+    "grammar_features": {
+      "is_question": "yes",
+      "wh_type": "yesno",
+      "polarity": "positive",
+      "tense": "present",
+      "aspect": "none",
+      "applied_rules": [
+        "temporal_to_clause_initial",
+        "clause_final_particle_ordering",
+        "wh_final_enforcement"
+      ]
+    },
+    "baseline_translation": "Are you free today?",
+    "instruction": "Generate a natural English sentence that preserves the meaning of the normalized gloss and uses the grammar features as constraints."
+  }
+}
