@@ -1,0 +1,717 @@
+{
+  "picked": [
+    "i am in dilemma what to do",
+    "how dare you",
+    "which collegeschool are you from",
+    "how old are you",
+    "let him take time",
+    "i like you i love you",
+    "i am suffering from fever",
+    "i am very happy",
+    "it was nice chatting with you",
+    "thank you so much",
+    "my name is xxxxxxxx",
+    "i really appreciate it",
+    "i am so sorry to hear that",
+    "you need a medicine, take this one",
+    "wear the shirt",
+    "i was stopped by some one",
+    "i promise",
+    "comb your hair",
+    "can i help you",
+    "i am not really sure",
+    "he would be coming today",
+    "i am fine. thank you sir",
+    "prepare the bed",
+    "serve the food",
+    "turn on light turn off light"
+  ],
+  "full_pool": {
+    "He is going into the room": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.2,
+      "margin": -0.1623566269874573,
+      "score": -0.1623566269874573
+    },
+    "This place is beautiful": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.8,
+      "margin": -0.016376304626464843,
+      "score": 0.3836236953735352
+    },
+    "are you free today": {
+      "n": 5,
+      "top1": 0.6,
+      "top3": 0.6,
+      "margin": 0.0412690281867981,
+      "score": 0.6412690281867981
+    },
+    "are you hiding something": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 1.0,
+      "margin": -0.02394148111343384,
+      "score": 0.37605851888656616
+    },
+    "bring water for me": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.0,
+      "margin": -0.1631772994995117,
+      "score": -0.1631772994995117
+    },
+    "can i help you": {
+      "n": 6,
+      "top1": 0.6666666666666666,
+      "top3": 0.8333333333333334,
+      "margin": 0.00773349404335022,
+      "score": 0.6744001607100168
+    },
+    "can you repeat that please": {
+      "n": 5,
+      "top1": 0.2,
+      "top3": 0.2,
+      "margin": -0.1800554394721985,
+      "score": 0.019944560527801525
+    },
+    "comb your hair": {
+      "n": 5,
+      "top1": 0.8,
+      "top3": 0.8,
+      "margin": 0.057778453826904295,
+      "score": 0.8577784538269043
+    },
+    "congratulations": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.6,
+      "margin": -0.17376126050949098,
+      "score": 0.22623873949050904
+    },
+    "could you please talk slower": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.4,
+      "margin": -0.08810155391693116,
+      "score": 0.3118984460830689
+    },
+    "do me a favour": {
+      "n": 5,
+      "top1": 0.6,
+      "top3": 0.8,
+      "margin": -0.026299643516540527,
+      "score": 0.5737003564834594
+    },
+    "do not abuse him": {
+      "n": 4,
+      "top1": 0.0,
+      "top3": 0.25,
+      "margin": -0.1538669615983963,
+      "score": -0.1538669615983963
+    },
+    "do not be stubborn": {
+      "n": 4,
+      "top1": 0.0,
+      "top3": 0.0,
+      "margin": -0.11047564446926117,
+      "score": -0.11047564446926117
+    },
+    "do not hurt me": {
+      "n": 5,
+      "top1": 0.2,
+      "top3": 0.8,
+      "margin": -0.09726747274398803,
+      "score": 0.10273252725601198
+    },
+    "do not make me angry": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.6,
+      "margin": -0.06672464609146118,
+      "score": 0.33327535390853885
+    },
+    "do not take it to the heart": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.2,
+      "margin": -0.08338439464569092,
+      "score": -0.08338439464569092
+    },
+    "do not worry": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.0,
+      "margin": -0.36582396030426023,
+      "score": -0.36582396030426023
+    },
+    "do you need something": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.6,
+      "margin": -0.09840352535247802,
+      "score": 0.301596474647522
+    },
+    "go and sleep": {
+      "n": 6,
+      "top1": 0.5,
+      "top3": 0.6666666666666666,
+      "margin": -0.10585047801335652,
+      "score": 0.3941495219866435
+    },
+    "had your food": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.0,
+      "margin": -0.1785295009613037,
+      "score": -0.1785295009613037
+    },
+    "he came by train": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.4,
+      "margin": -0.1336908221244812,
+      "score": -0.1336908221244812
+    },
+    "he is on the way": {
+      "n": 4,
+      "top1": 0.0,
+      "top3": 0.25,
+      "margin": -0.18116119503974915,
+      "score": -0.18116119503974915
+    },
+    "he she is my friend": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.8,
+      "margin": -0.03926671743392944,
+      "score": 0.36073328256607057
+    },
+    "he would be coming today": {
+      "n": 5,
+      "top1": 0.6,
+      "top3": 1.0,
+      "margin": 0.02621462345123291,
+      "score": 0.6262146234512329
+    },
+    "help me": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.4,
+      "margin": -0.060444211959838866,
+      "score": 0.3395557880401612
+    },
+    "hi how are you": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.8,
+      "margin": 0.00157623291015625,
+      "score": 0.40157623291015626
+    },
+    "how are things": {
+      "n": 4,
+      "top1": 0.5,
+      "top3": 0.5,
+      "margin": -0.032810673117637634,
+      "score": 0.46718932688236237
+    },
+    "how can i help you": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.4,
+      "margin": -0.1854918122291565,
+      "score": -0.1854918122291565
+    },
+    "how can i trust you": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.0,
+      "margin": -0.24992161393165588,
+      "score": -0.24992161393165588
+    },
+    "how dare you": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.8,
+      "margin": -0.025516188144683837,
+      "score": 0.3744838118553162
+    },
+    "how old are you": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.8,
+      "margin": -0.012094438076019287,
+      "score": 0.38790556192398074
+    },
+    "i am (age)": {
+      "n": 5,
+      "top1": 0.6,
+      "top3": 0.6,
+      "margin": -0.08792678713798523,
+      "score": 0.5120732128620148
+    },
+    "i am afraid of that": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.6,
+      "margin": -0.03817651271820068,
+      "score": 0.36182348728179936
+    },
+    "i am crying": {
+      "n": 5,
+      "top1": 0.6,
+      "top3": 0.8,
+      "margin": -0.03132354021072388,
+      "score": 0.5686764597892761
+    },
+    "i am feeling bored": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 1.0,
+      "margin": 0.0003678083419799805,
+      "score": 0.40036780834198
+    },
+    "i am feeling cold": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.4,
+      "margin": -0.11805160045623779,
+      "score": -0.11805160045623779
+    },
+    "i am fine. thank you sir": {
+      "n": 5,
+      "top1": 0.8,
+      "top3": 0.8,
+      "margin": 0.011889028549194335,
+      "score": 0.8118890285491944
+    },
+    "i am hungry": {
+      "n": 5,
+      "top1": 0.2,
+      "top3": 0.4,
+      "margin": -0.12238974571228027,
+      "score": 0.07761025428771974
+    },
+    "i am in dilemma what to do": {
+      "n": 5,
+      "top1": 1.0,
+      "top3": 1.0,
+      "margin": 0.06420409679412842,
+      "score": 1.0642040967941284
+    },
+    "i am not really sure": {
+      "n": 5,
+      "top1": 0.6,
+      "top3": 0.8,
+      "margin": -0.012429928779602051,
+      "score": 0.587570071220398
+    },
+    "i am really grateful": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.6,
+      "margin": -0.04225864410400391,
+      "score": 0.3577413558959961
+    },
+    "i am sitting in the class": {
+      "n": 5,
+      "top1": 0.6,
+      "top3": 0.8,
+      "margin": 0.02138122320175171,
+      "score": 0.6213812232017517
+    },
+    "i am so sorry to hear that": {
+      "n": 5,
+      "top1": 0.8,
+      "top3": 0.8,
+      "margin": 0.09461678266525268,
+      "score": 0.8946167826652527
+    },
+    "i am suffering from fever": {
+      "n": 5,
+      "top1": 1.0,
+      "top3": 1.0,
+      "margin": 0.18995428085327148,
+      "score": 1.1899542808532715
+    },
+    "i am tired": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.0,
+      "margin": -0.17132184505462647,
+      "score": -0.17132184505462647
+    },
+    "i am very happy": {
+      "n": 4,
+      "top1": 0.75,
+      "top3": 1.0,
+      "margin": 0.02891138195991516,
+      "score": 0.7789113819599152
+    },
+    "i can not help you there": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.2,
+      "margin": -0.15942506790161132,
+      "score": -0.15942506790161132
+    },
+    "i do not agree": {
+      "n": 5,
+      "top1": 0.2,
+      "top3": 0.6,
+      "margin": -0.09663467407226563,
+      "score": 0.10336532592773438
+    },
+    "i do not like it": {
+      "n": 6,
+      "top1": 0.16666666666666666,
+      "top3": 0.16666666666666666,
+      "margin": -0.18399766584237418,
+      "score": -0.017330999175707518
+    },
+    "i do not mean it": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.0,
+      "margin": -0.17236940264701844,
+      "score": -0.17236940264701844
+    },
+    "i enjoyed a lot": {
+      "n": 6,
+      "top1": 0.16666666666666666,
+      "top3": 0.16666666666666666,
+      "margin": -0.151921013991038,
+      "score": 0.014745652675628662
+    },
+    "i got hurt": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.6,
+      "margin": -0.04657864570617676,
+      "score": 0.35342135429382326
+    },
+    "i like you i love you": {
+      "n": 6,
+      "top1": 1.0,
+      "top3": 1.0,
+      "margin": 0.19888036449750265,
+      "score": 1.1988803644975026
+    },
+    "i need water": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.4,
+      "margin": -0.053508853912353514,
+      "score": 0.34649114608764653
+    },
+    "i promise": {
+      "n": 5,
+      "top1": 0.8,
+      "top3": 1.0,
+      "margin": 0.053379380702972413,
+      "score": 0.8533793807029725
+    },
+    "i really appreciate it": {
+      "n": 5,
+      "top1": 0.8,
+      "top3": 0.8,
+      "margin": 0.04751269817352295,
+      "score": 0.847512698173523
+    },
+    "i somehow got to know about it": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.6,
+      "margin": -0.07697633504867554,
+      "score": 0.3230236649513245
+    },
+    "i was stopped by some one": {
+      "n": 5,
+      "top1": 0.8,
+      "top3": 1.0,
+      "margin": 0.07190685272216797,
+      "score": 0.8719068527221681
+    },
+    "it does not make any difference to me": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.0,
+      "margin": -0.17634241580963134,
+      "score": -0.17634241580963134
+    },
+    "it was nice chatting with you": {
+      "n": 5,
+      "top1": 1.0,
+      "top3": 1.0,
+      "margin": 0.042041671276092527,
+      "score": 1.0420416712760925
+    },
+    "let him take time": {
+      "n": 5,
+      "top1": 1.0,
+      "top3": 1.0,
+      "margin": 0.1420293092727661,
+      "score": 1.142029309272766
+    },
+    "my name is xxxxxxxx": {
+      "n": 5,
+      "top1": 0.8,
+      "top3": 0.8,
+      "margin": 0.09858103990554809,
+      "score": 0.8985810399055482
+    },
+    "nice to meet you": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.0,
+      "margin": -0.22685188055038452,
+      "score": -0.22685188055038452
+    },
+    "now onwards he will never hurt you": {
+      "n": 5,
+      "top1": 0.6,
+      "top3": 0.8,
+      "margin": -0.0902329444885254,
+      "score": 0.5097670555114746
+    },
+    "pour some more water into the glass": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.4,
+      "margin": -0.1434626579284668,
+      "score": 0.2565373420715332
+    },
+    "prepare the bed": {
+      "n": 5,
+      "top1": 0.6,
+      "top3": 0.8,
+      "margin": 0.009894108772277832,
+      "score": 0.6098941087722778
+    },
+    "serve the food": {
+      "n": 7,
+      "top1": 0.7142857142857143,
+      "top3": 0.8571428571428571,
+      "margin": 0.03823086193629673,
+      "score": 0.7525165762220111
+    },
+    "shall we go outside": {
+      "n": 5,
+      "top1": 0.6,
+      "top3": 0.6,
+      "margin": -0.02625340223312378,
+      "score": 0.5737465977668762
+    },
+    "speak softly": {
+      "n": 6,
+      "top1": 0.5,
+      "top3": 0.5,
+      "margin": -0.0288442720969518,
+      "score": 0.4711557279030482
+    },
+    "take care of yourself": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.8,
+      "margin": -0.02277475595474243,
+      "score": 0.3772252440452576
+    },
+    "tell me truth": {
+      "n": 4,
+      "top1": 0.5,
+      "top3": 0.5,
+      "margin": -0.03640185296535492,
+      "score": 0.4635981470346451
+    },
+    "thank you so much": {
+      "n": 5,
+      "top1": 0.8,
+      "top3": 0.8,
+      "margin": 0.029234480857849122,
+      "score": 0.8292344808578491
+    },
+    "that is so kind of you": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.4,
+      "margin": -0.09076511859893799,
+      "score": -0.09076511859893799
+    },
+    "try to understand": {
+      "n": 5,
+      "top1": 0.2,
+      "top3": 0.4,
+      "margin": -0.07728607654571533,
+      "score": 0.12271392345428468
+    },
+    "turn on light turn off light": {
+      "n": 5,
+      "top1": 0.6,
+      "top3": 0.6,
+      "margin": 0.03103243112564087,
+      "score": 0.6310324311256409
+    },
+    "we are all with you": {
+      "n": 5,
+      "top1": 0.2,
+      "top3": 0.4,
+      "margin": -0.061699068546295165,
+      "score": 0.13830093145370484
+    },
+    "wear the shirt": {
+      "n": 5,
+      "top1": 0.8,
+      "top3": 0.8,
+      "margin": 0.06302409172058106,
+      "score": 0.8630240917205811
+    },
+    "what are you doing": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.2,
+      "margin": -0.17630295753479003,
+      "score": -0.17630295753479003
+    },
+    "what did you tell him": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.2,
+      "margin": -0.1762096881866455,
+      "score": -0.1762096881866455
+    },
+    "what do you do": {
+      "n": 4,
+      "top1": 0.0,
+      "top3": 0.5,
+      "margin": -0.20993546396493912,
+      "score": -0.20993546396493912
+    },
+    "what do you think": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.6,
+      "margin": -0.08536858558654785,
+      "score": 0.31463141441345216
+    },
+    "what do you want to become": {
+      "n": 5,
+      "top1": 0.2,
+      "top3": 0.2,
+      "margin": -0.12357996702194214,
+      "score": 0.07642003297805787
+    },
+    "what happened": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.0,
+      "margin": -0.3367021203041077,
+      "score": -0.3367021203041077
+    },
+    "what is your phone number": {
+      "n": 5,
+      "top1": 0.2,
+      "top3": 0.8,
+      "margin": -0.06547573804855347,
+      "score": 0.13452426195144654
+    },
+    "what you want": {
+      "n": 5,
+      "top1": 0.2,
+      "top3": 0.4,
+      "margin": -0.060332965850830075,
+      "score": 0.13966703414916992
+    },
+    "when will the train leave": {
+      "n": 5,
+      "top1": 0.2,
+      "top3": 0.2,
+      "margin": -0.08400925397872924,
+      "score": 0.11599074602127077
+    },
+    "where are you from": {
+      "n": 4,
+      "top1": 0.0,
+      "top3": 0.5,
+      "margin": -0.0933750718832016,
+      "score": -0.0933750718832016
+    },
+    "which collegeschool are you from": {
+      "n": 5,
+      "top1": 0.6,
+      "top3": 0.8,
+      "margin": 0.0064277172088623045,
+      "score": 0.6064277172088622
+    },
+    "who are you": {
+      "n": 5,
+      "top1": 0.2,
+      "top3": 0.4,
+      "margin": -0.17444666028022765,
+      "score": 0.02555333971977236
+    },
+    "why are you angry": {
+      "n": 5,
+      "top1": 0.2,
+      "top3": 0.6,
+      "margin": -0.09734655618667602,
+      "score": 0.10265344381332399
+    },
+    "why are you crying": {
+      "n": 5,
+      "top1": 0.6,
+      "top3": 0.6,
+      "margin": -0.08120532035827636,
+      "score": 0.5187946796417237
+    },
+    "why are you disappointed": {
+      "n": 5,
+      "top1": 0.0,
+      "top3": 0.0,
+      "margin": -0.20107636451721192,
+      "score": -0.20107636451721192
+    },
+    "you are bad": {
+      "n": 6,
+      "top1": 0.0,
+      "top3": 0.16666666666666666,
+      "margin": -0.1993998885154724,
+      "score": -0.1993998885154724
+    },
+    "you are good": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.4,
+      "margin": -0.035851335525512694,
+      "score": 0.36414866447448735
+    },
+    "you are welcome": {
+      "n": 5,
+      "top1": 0.2,
+      "top3": 0.8,
+      "margin": -0.04029500484466553,
+      "score": 0.15970499515533448
+    },
+    "you can do it": {
+      "n": 5,
+      "top1": 0.4,
+      "top3": 0.8,
+      "margin": -0.02944304943084717,
+      "score": 0.37055695056915283
+    },
+    "you do anything, i do not care": {
+      "n": 4,
+      "top1": 0.25,
+      "top3": 0.5,
+      "margin": -0.10563337802886963,
+      "score": 0.14436662197113037
+    },
+    "you need a medicine, take this one": {
+      "n": 5,
+      "top1": 0.8,
+      "top3": 1.0,
+      "margin": 0.0715596318244934,
+      "score": 0.8715596318244935
+    }
+  }
+}
